@@ -2,7 +2,7 @@
 Projeto construído durante a 4º aula da Imersão Dev proporcionado pela Alura.
 
 
----------->AULA 04 IMERSÃO DEV--------- 
+---------->AULA 04 IMERSÃO DEV---------(texto da Imersão Dev do Alura)
 ALURAFLIX
 PARTICIPE E VÁ MAIS FUNDO
 Hoje temos uma live no youtube! Ative o lembrete.
